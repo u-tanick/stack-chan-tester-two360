@@ -27,10 +27,10 @@ M5Stackに顔を表示させるライブラリ [M5Stack-Avatar](https://github.c
 
 `M5Stack Servo Kit 360` での動作確認を行っています。
 
-- 360度回転サーボモーター
+- 360度回転サーボモーターなどでの使用を想定しています
+  - [M5Stack Servo Kit 360](https://www.switch-science.com/products/6479)
   - [TowerPro SG90-HV](https://akizukidenshi.com/catalog/g/g114382/)
   - [FEETECH FS90R](https://www.switch-science.com/products/7113)
-  - [M5Stack Servo Kit 360](https://www.switch-science.com/products/6479)
 
 使用するサーボモーターを変更する場合は、使用するサーボの仕様に合わせてpwmの値を調整してください。
 
